@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  color: #222;
+}
+
+header {
+  background-color: #0040ff;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.hero-text {
+  max-width: 400px;
+  margin-right: 2rem;
+}
+
+.hero-img img {
+  max-width: 300px;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f5f5f5;
+  margin-top: 2rem;
+}
